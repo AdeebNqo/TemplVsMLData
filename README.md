@@ -33,7 +33,7 @@ Ted Kleinhans (April 8 1899 -- July 24 1985) was born in Deer Park, Wisconsin. H
 * Prelimresults.zip contains the details of the first evaluation, with 10 paired sentences that were evaluated by 91 respondents at UCT.
 * all_texts.csv contains all the texts (70 paired sentences) that were evaluated on MTurk.
 * judgements-without-failed-check.zip is the data obtained from that crowdsourced evaluation, excluding those who failed the attention check.
-* The Knowledge graph we used is <a href="https://doi.org/10.18653/v1/w18-6502">described here</a> and accessible at the <a href="https://github.com/EagleW/Describing_a_Knowledge_Base">Dewscribing a Knowledge Base github reposotiry</a>. 
+* The Knowledge graph we used is <a href="https://doi.org/10.18653/v1/w18-6502">described here</a> and accessible at the <a href="https://github.com/EagleW/Describing_a_Knowledge_Base">Describing a Knowledge Base github reposotiry</a>. 
 
 ## Contributors
 
